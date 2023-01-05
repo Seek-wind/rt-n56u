@@ -2,7 +2,8 @@ name: Build MT7620
 
 on: 
   release:
-    types: [published]
+    #types: [published]
+    types:  JDC-1
 #  push:
 #    tags:
 #    - 'v*'
